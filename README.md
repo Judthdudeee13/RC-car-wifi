@@ -47,5 +47,5 @@ This repository includes the "Raspberry Pi Zero Snap Case v2" 3D model designed 
 
 This model is used under the [CC BY 4.0 License](https://creativecommons.org). 
 * [x] Unmodified original files
-* [ ] Modified from the original design (State your changes here if applicable)
+* [ ] Modified from the original design
 
