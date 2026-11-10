@@ -3,9 +3,9 @@ A built from scratch RC car using wifi as the connection between a raspberry pi 
 
 Before this repo was released I started and on the second iteration of the design
 
-This project will end in a fully functioning RC car using a Wifi connection between car and controller with Wifi connection to phone fore video feed
+This project will end in a fully functioning RC car using a Wifi connection between car and controller with Wifi connection to phone for the video feed
 This project will show 3d Modeling, Wiring, Coding, and all of the above working together
-All parts for this project will be 3d Printed or easily sourced from an available online suplier.
+All parts for this project will be 3d Printed or easily sourced from an available online supplier.
 
 # Parts list:
   ## Car:
@@ -36,14 +36,14 @@ All parts for this project will be 3d Printed or easily sourced from an availabl
   ```
  /Software/
     Contains all software and folders for each device
- /Hardward/
+ /Hardware/
     Contains all 3d Cad Models and wiring in separate folders
  /Buildlog/
     Contains Folders containing links to videos of progress, pictures or progress, and a progress log with bugs and fixes both hardware and software
 ```
 # Will update everything as project advances
 ## Credits and Licensing
-This repository includes the "Raspberry Pi Zero Snap Case v2" 3D model designed by [Creator Name/Username] via [MakerWorld](https://makerworld.com). 
+This repository includes the "Raspberry Pi Zero Snap Case v2" 3D model designed by [lr_f3d] via [MakerWorld](https://makerworld.com). 
 
 This model is used under the [CC BY 4.0 License](https://creativecommons.org). 
 * [x] Unmodified original files
