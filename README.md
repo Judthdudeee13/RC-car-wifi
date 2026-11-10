@@ -42,4 +42,10 @@ All parts for this project will be 3d Printed or easily sourced from an availabl
     Contains Folders containing links to videos of progress, pictures or progress, and a progress log with bugs and fixes both hardware and software
 ```
 # Will update everything as project advances
+## Credits and Licensing
+This repository includes the "Raspberry Pi Zero Snap Case v2" 3D model designed by [Creator Name/Username] via [MakerWorld](https://makerworld.com). 
+
+This model is used under the [CC BY 4.0 License](https://creativecommons.org). 
+* [x] Unmodified original files
+* [ ] Modified from the original design (State your changes here if applicable)
 
